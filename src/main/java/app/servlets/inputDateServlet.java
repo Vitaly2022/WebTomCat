@@ -49,7 +49,6 @@ public class inputDateServlet extends HttpServlet {
         req.setAttribute("SubmitDate", SubmitDate);
         req.setAttribute("dayOfWeek", day_week);
         req.setAttribute("dayBetween", dayBetween);
-
         doGet(req, resp);
     }
 }

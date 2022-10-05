@@ -16,7 +16,7 @@ public class AddServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 //        PrintWriter writer = resp.getWriter();
 //        writer.println("Method GET from Addservlet");
-        RequestDispatcher requestDispatcher = req.getRequestDispatcher("/views/add.jsp");
+        RequestDispatcher requestDispatcher = req.getRequestDispatcher("views/add.jsp");
         requestDispatcher.forward(req, resp);
     }
 

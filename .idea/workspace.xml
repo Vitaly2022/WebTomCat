@@ -11,6 +11,13 @@
   <component name="ChangeListManager">
     <list default="true" id="7e14019b-0808-49b2-ac06-f7e404b33236" name="Changes" comment="1 Data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/inputDateServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/inputDateServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/views/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/inputDate.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/views/inputDate.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/views/list.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +59,19 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Vit/WebTomCat&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Vit\WebTomCat\src\main" />
+      <recent name="D:\Vit\WebTomCat\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.82" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.82" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -159,7 +176,11 @@
       <workItem from="1664729124210" duration="5595000" />
       <workItem from="1664810589838" duration="14974000" />
       <workItem from="1664982461345" duration="325000" />
-      <workItem from="1664984329890" duration="1809000" />
+      <workItem from="1664982840044" duration="1482000" />
+      <workItem from="1664986404330" duration="321000" />
+      <workItem from="1664989626289" duration="245000" />
+      <workItem from="1664990661443" duration="43000" />
+      <workItem from="1664990793435" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="1 Data">
       <created>1664827583788</created>
