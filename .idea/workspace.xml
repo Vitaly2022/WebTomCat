@@ -9,8 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e14019b-0808-49b2-ac06-f7e404b33236" name="Changes" comment="1 Data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e14019b-0808-49b2-ac06-f7e404b33236" name="Changes" comment="pr - html">
+      <change beforePath="$PROJECT_DIR$/im1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +177,7 @@
       <workItem from="1664989626289" duration="245000" />
       <workItem from="1664990661443" duration="43000" />
       <workItem from="1664990793435" duration="876000" />
+      <workItem from="1665001950886" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="1 Data">
       <created>1664827583788</created>
@@ -198,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664995413968</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pr - html">
+      <created>1665002007232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665002007232</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pr - html">
+      <created>1665002223750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665002223751</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +233,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 Data" />
+    <MESSAGE value="pr - html" />
+    <option name="LAST_COMMIT_MESSAGE" value="pr - html" />
   </component>
 </project>
