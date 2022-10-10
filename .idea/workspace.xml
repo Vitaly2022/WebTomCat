@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e14019b-0808-49b2-ac06-f7e404b33236" name="Changes" comment="pr - html" />
+    <list default="true" id="7e14019b-0808-49b2-ac06-f7e404b33236" name="Changes" comment="Site about me - html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,6 +175,7 @@
       <workItem from="1664990661443" duration="43000" />
       <workItem from="1664990793435" duration="876000" />
       <workItem from="1665001950886" duration="480000" />
+      <workItem from="1665419338394" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="1 Data">
       <created>1664827583788</created>
@@ -225,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665002337093</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Site about me - html">
+      <created>1665419519006</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665419519007</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +253,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Data" />
     <MESSAGE value="pr - html" />
-    <option name="LAST_COMMIT_MESSAGE" value="pr - html" />
+    <MESSAGE value="Site about me - html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Site about me - html" />
   </component>
 </project>
